@@ -4,6 +4,7 @@ This project is a **weather-themed interactive website** built using **HTML, CSS
 It demonstrates how to integrate a weather API, create a responsive layout, and build interactive UI components with DOM manipulation.  
 
 
+---
 
 ## 📌 Tasks Overview  
 
@@ -14,6 +15,7 @@ It demonstrates how to integrate a weather API, create a responsive layout, and 
 - Added **dynamic forecast cards** with icons and real-time updates  
 - Ensured **error handling** for invalid or empty city inputs  
 
+---
 
 ## 🛠️ Technologies Used  
 - **HTML5** → Semantic structure  
@@ -23,6 +25,7 @@ It demonstrates how to integrate a weather API, create a responsive layout, and 
   - Event Handling  
   - API Fetch (Weather API)  
 
+---
 
 
 ## 📂 Project Structure 
@@ -40,6 +43,7 @@ WeatherExplorer/
 │ |── snow.png
 | |__ weather.png
 │── README.md # Documentation
+
 ```
 
 ## � Setup & Run Instructions (For Any Device)
