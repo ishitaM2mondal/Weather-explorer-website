@@ -7,14 +7,12 @@ It demonstrates how to integrate a weather API, create a responsive layout, and 
 
 ## 📌 Tasks Overview  
 
-### ✅ Task 3 – API Integration & Dynamic Web Components  
+###  API Integration & Dynamic Web Components  
 - Implemented **search functionality** to fetch live weather data for any city  
 - Integrated **weather API** to display temperature, humidity, wind speed, and conditions  
 - Designed a **responsive layout** using Flexbox, CSS Grid, and media queries  
 - Added **dynamic forecast cards** with icons and real-time updates  
 - Ensured **error handling** for invalid or empty city inputs  
-
-📂 Folder: `Task3/`  
 
 
 ## 🛠️ Technologies Used  
@@ -42,7 +40,6 @@ WeatherExplorer/
 │ |── snow.png
 | |__ weather.png
 │── README.md # Documentation
-│── ApexPlanet_Task3.mp4 # Demo video of the project
 ```
 
 
@@ -58,8 +55,5 @@ WeatherExplorer/
 
 
 
-## 🙏 Acknowledgement  
 
-This repository documents my internship journey at **ApexPlanet Software Pvt. Ltd.**  
-I sincerely thank the team for guiding me through **advanced styling and JavaScript concepts** and giving me the opportunity to implement them in practical projects.  
   
