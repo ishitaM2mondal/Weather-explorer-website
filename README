@@ -42,6 +42,33 @@ WeatherExplorer/
 │── README.md # Documentation
 ```
 
+## � Setup & Run Instructions (For Any Device)
+
+# Download or Clone the Repository
+
+git clone https://github.com/your-username/WeatherExplorer.git
+
+
+Or download the ZIP file and extract it.
+
+# Open the Project Folder
+
+cd WeatherExplorer
+
+
+# Open the App
+
+Double-click on index.html
+OR
+
+Right-click → “Open with” → your preferred browser (Chrome, Edge, Firefox, etc.)
+
+Start Exploring Weather!
+
+Enter any city name in the search box.
+
+View real-time weather details fetched from the API.
+
 
 
 
